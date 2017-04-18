@@ -1,0 +1,7 @@
+body {
+  background-color: pink;
+  background-image: url('https://media.giphy.com/media/13yEy31lKuq77y/giphy.gif');
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
