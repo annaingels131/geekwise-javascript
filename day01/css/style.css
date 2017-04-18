@@ -1,0 +1,19 @@
+body {
+  background-color: hsla(280, 60%, 60%, .5);
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+article img {
+  width: 100%;
+}
+
+article h1 {
+  font-size: 5vw;
+}
