@@ -1,0 +1,24 @@
+body {
+  background-image: url(https://unsplash.it/1300/1000?random
+);
+}
+
+.flex {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+ul li {
+  list-style: none;
+  display: inline;
+}
+
+button {
+  margin: 20% 0;
+  padding: 20px;
+  font-size: 30px;
+  border: 2px solid #000;
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px #000;
+}
